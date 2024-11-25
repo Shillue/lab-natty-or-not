@@ -5,7 +5,7 @@ Este é um mini-book que explora como as IAs generativas estão transformando a 
 
 ## 🤖 Tecnologias Utilizadas  
 - **IA ChatGPT (OpenAI)**: Utilizada para estruturar e desenvolver o conteúdo textual.  
-- **Microsoft Bing Image Creator**: Ferramenta de IA baseada em DALL-E usada para criar as imagens do livro. [Link](https://bing.com/images)  
+- **Microsoft Bing Image Creator**: Ferramenta de IA baseada em DALL-E usada para criar as imagens do livro. 
 
 ## 🧐 Processo de Criação  
 1. **Estruturação**: O conteúdo foi cuidadosamente planejado e dividido em capítulos para abordar os principais temas relacionados às IAs generativas.  
