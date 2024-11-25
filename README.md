@@ -17,8 +17,7 @@ Este é um mini-book que explora como as IAs generativas estão transformando a 
 - **Mini-book concluído**: O livro possui 12 páginas, incluindo capa, sumário e conteúdos finais.  
 - **Conteúdo acessível e relevante**: Textos informativos que explicam o impacto positivo das IAs generativas e destacam sua importância na transformação da sociedade.  
 - **Imagens criativas**: Geradas com IA, as ilustrações enriqueceram visualmente o material, tornando-o mais atraente e didático.  
-- **Download do Livro**: Você pode acessar o PDF do livro clicando [aqui]([Aliados Digitais - O Papel das IAs Generativas no Futuro Humano.pdf](https://github.com/user-attachments/files/17909201/Aliados.Digitais.-.O.Papel.das.IAs.Generativas.no.Futuro.Humano.pdf)
-).  
+- **Download do Livro**: Você pode acessar o PDF do livro clicando ([Aqui](https://github.com/user-attachments/files/17909201/Aliados.Digitais.-.O.Papel.das.IAs.Generativas.no.Futuro.Humano.pdf)).  
 
 ## 💭 Reflexão (Opcional)  
 Criar este projeto foi uma experiência incrível! A colaboração com ferramentas de IA mostrou como a tecnologia pode ser um verdadeiro aliado na criação de conteúdo de qualidade. Este livro é um exemplo de como humanos e máquinas podem trabalhar juntos para transformar ideias em algo concreto e impactante.  
