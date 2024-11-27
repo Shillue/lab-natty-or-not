@@ -19,6 +19,6 @@ Este é um mini-book que explora como as IAs generativas estão transformando a 
 - **Imagens criativas**: Geradas com IA, as ilustrações enriqueceram visualmente o material, tornando-o mais atraente e didático.  
 - **Download do Livro**: Você pode acessar o PDF do livro clicando ([Aqui](https://github.com/user-attachments/files/17909201/Aliados.Digitais.-.O.Papel.das.IAs.Generativas.no.Futuro.Humano.pdf)).  
 
-## 💭 Reflexão (Opcional)  
+## 💭 Reflexão   
 Criar este projeto foi uma experiência incrível! A colaboração com ferramentas de IA mostrou como a tecnologia pode ser um verdadeiro aliado na criação de conteúdo de qualidade. Este livro é um exemplo de como humanos e máquinas podem trabalhar juntos para transformar ideias em algo concreto e impactante.  
 
