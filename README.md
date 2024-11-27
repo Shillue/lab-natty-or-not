@@ -9,7 +9,7 @@ Este é um mini-book que explora como as IAs generativas estão transformando a 
 
 ## 🧐 Processo de Criação  
 1. **Estruturação**: O conteúdo foi cuidadosamente planejado e dividido em capítulos para abordar os principais temas relacionados às IAs generativas.  
-2. **Geração de Texto**: Com a ajuda do ChatGPT, foram desenvolvidos textos claros e objetivos, explorando temas como inclusão, acessibilidade e inovação tecnológica.  
+2. **Geração de Texto**: Com a ajuda do ChatGPT, foram desenvolvidos textos claros e objetivos, bem como, para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo, explorando temas como inclusão, acessibilidade e inovação tecnológica.  
 3. **Criação de Imagens**: As imagens foram geradas com a ferramenta de IA do Bing, com foco em complementar o conteúdo do livro e enriquecer a experiência do leitor.  
 4. **Revisão e Organização**: O texto foi revisado e organizado no Microsoft Word, posteriormente convertido em PDF para publicação.  
 
